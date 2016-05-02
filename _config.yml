@@ -1,0 +1,28 @@
+name: Phoenixio
+favicon: null
+layout_spectrum: 0.9551150351762772
+typography_spectrum: 0.7294327630661428
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9064437127672136
+  lightness: 0.1895664418116212
+  saturation: 0.015036115190014243
+  rhythmicContrast: 0.04139551892876625
+purpose: []
